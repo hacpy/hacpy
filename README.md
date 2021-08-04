@@ -4,7 +4,6 @@
 **hacpy/hacpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hacpy&show_icons=true&theme=dark&count_private=true)
 
+-->
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hacpy&theme=dark&show_icons=true">](https://metrics.lecoq.io/hacpy?template=classic)
+
+- 🔭 I’m currently working on ChainX
+- 🌱 I’m currently learning Rust
+- 🏠 I’m currently in Hangzhou, China
+- 🪒 I have studied DL and embedded, now for blockchain
+- 📫 How to reach me: hacpy.lbx@gamil.com
+- 🖌 Art, yyds
+- ⚡ Fun fact: I’m a 🥬🐶
